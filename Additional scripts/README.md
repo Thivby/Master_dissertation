@@ -6,4 +6,3 @@ This folder contains utility notebooks and helper code used at various steps of 
 - Parsing AlphaFold PAE matrices
 - Generating negative control protein lists
 
-These scripts are not part of the main pipeline but were important for side tasks and data preparation.
